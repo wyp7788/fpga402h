@@ -1,2 +1,4 @@
-# fpga402h
-FPGA form zero to hero!
+# FPGA402H
+FPGA from zero to hero!
+## FPGA development environment
+design and simulation;
