@@ -8,6 +8,7 @@ design and simulation;
 
 1. FPGA Archtecture
 2. FPGA resource
-3. Constrains: Physical and Timing
-4. HIGH speed interface: DDR, BRAM, PCIe, NIO
-5. Timing opt
+3. FPGA Configuration（UG570）
+4. Constrains: Physical and Timing
+5. HIGH speed interface: DDR, BRAM, PCIe, NIO
+6. Timing opt
