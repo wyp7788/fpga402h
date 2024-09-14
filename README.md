@@ -12,3 +12,9 @@ design and simulation;
 4. Constrains: Physical and Timing
 5. HIGH speed interface: DDR, BRAM, PCIe, NIO
 6. Timing opt
+
+Skill list:
+- Async and  sync Reset
+- verilog counter design
+- FIFO design (module)
+- Timing
